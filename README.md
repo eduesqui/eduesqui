@@ -16,7 +16,7 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://www.dropbox.com/s/ih7wzws76lxg3pz/OCP_JavaSE6Programmer_clr.bmp?dl=0" width="40"/>
+        <img src="https://previews.dropbox.com/p/thumb/ABQGT2_VNV7W4Mk4bWPzER9Da5FbHTQBbsX6WZT28pklm-0fOXL6V5D1iwaQ0Do8jq4E-qSN_Zd3QMIVOeDlRexyjNVvfMqGbfgVdNYBDlUQvaee73m_qWpWO18vRdgDat0DqXrs4vRGe5uA0GZdJeCo5JV2ov09hxKk2qmDJBgC7rGqWSjKiS4KIkcE28GOZKTNeeNsS5FWWMhL8qpBKK3RLmZn5gP5Y8ezFlGTNKTf5aVdhWz51zD_-IEpFR5nRq_HcDrE-5JGbErTwLnE9IP4pVQlqiB7iFK-Q1a3VNVQwIJTHhFQYXInvrjbnCj9JjQRMUJPV-3DyjjfU-5nUyTZPc1EW_pckXIuXFVSkpa6sg/p.jpeg?fv_content=true&size_mode=5?dl=0" width="40"/>
       </a>
       <br>Java - OCJP
     </td>
