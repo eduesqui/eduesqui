@@ -16,9 +16,9 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        <img src="https://www.dropbox.com/s/ih7wzws76lxg3pz/OCP_JavaSE6Programmer_clr.bmp?dl=0" width="40"/>
       </a>
-      <br>HTML
+      <br>Java - OCJP
     </td>
    </tr>
  </table>
