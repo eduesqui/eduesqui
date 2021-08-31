@@ -9,6 +9,20 @@
 <a href="https://twitter.com/eduesqui"><img src="https://img.shields.io/badge/-@eduesqui-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://platzi.com/p/eduesqui"><img src="https://img.shields.io/badge/-eduesqui-228B22?style=flat&logo=Platzi&logoColor=white"/></a>
   
+ ### 🏆 Certifications
+  
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+   </tr>
+ </table>
+
 </p>
 
 
