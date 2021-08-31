@@ -14,7 +14,7 @@
   
 I have 10+ years of experience in software development for clients as Televisa, CFE and Comercial Mexicana Group writing in Java and using frameworks like Spring, Hibernate, JSF and using tools like Unit Test, Junit and Maven. I have 8+ years of experience in software development for clients as Televisa, CFE and Comercial Mexicana Group writing in Java and using frameworks like Spring, Hibernate, JSF and using tools like Unit Test, Junit and Maven. I have created and used SOAP and REST web services. I am knowledgeable in Oracle and MySQL databases. I have architected solutions based on MVC. I know the agile SCRUM methodology. I hold SCJA and OCJP certifications. I have been in charge of groups up to 15 people in different projects and have taken the technical lead for said projects. I hold a bachelor´s degree in Computer Systems at the University of Hidalgo (UAEH).
   
- ### 🏆 Certifications
+ ###🏆 Certifications
   
 <br>
 <table>
@@ -24,12 +24,6 @@ I have 10+ years of experience in software development for clients as Televisa, 
         <img src="https://images.credly.com/size/680x680/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png" width="40"/>
       </a>
       <br>-JAVA - OCJP 6
-    </td>
-        <td align="center" width="150">
-      <a>
-        <img src="https://brm-certview.oracle.com/pls/certview/p_get_ocp_logo?p_id=1235" width="40"/>  
-      </a>
-      <br>JAVA - SCJA 6
     </td>
    </tr>
  </table>
