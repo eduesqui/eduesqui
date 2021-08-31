@@ -13,7 +13,7 @@
   
  ### 🙋‍♂️ About me
   
- <img align="right" alt="Coder GIF" height=370 width=390 src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+ <img align="right" alt="Coder GIF"  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
   
 I have 10+ years of experience in software development for clients as Televisa, CFE and Comercial Mexicana Group writing in Java and using frameworks like Spring, Hibernate, JSF and using tools like Unit Test, Junit and Maven. I have 8+ years of experience in software development for clients as Televisa, CFE and Comercial Mexicana Group writing in Java and using frameworks like Spring, Hibernate, JSF and using tools like Unit Test, Junit and Maven. I have created and used SOAP and REST web services. I am knowledgeable in Oracle and MySQL databases. I have architected solutions based on MVC. I know the agile SCRUM methodology. I hold SCJA and OCJP certifications. I have been in charge of groups up to 15 people in different projects and have taken the technical lead for said projects. I hold a bachelor´s degree in Computer Systems at the University of Hidalgo (UAEH).
   
