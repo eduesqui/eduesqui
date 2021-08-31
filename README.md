@@ -18,7 +18,13 @@
       <a>
         <img src="https://images.credly.com/size/680x680/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png" width="40"/>
       </a>
-      <br>Java - OCJP
+      <br>OCJP
+    </td>
+        <td align="center" width="96">
+      <a>
+        <img src="https://images.credly.com/size/680x680/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png" width="40"/>  
+      </a>
+      <br>SCJA
     </td>
    </tr>
  </table>
