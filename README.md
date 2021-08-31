@@ -24,7 +24,7 @@ I have 10+ years of experience in software development for clients as Televisa, 
       <a>
         <img src="https://images.credly.com/size/680x680/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png" width="40"/>
       </a>
-      <br>-JAVA - OCJP 6
+      <br>OCJP JAVA - 6
     </td>
    </tr>
  </table>
