@@ -57,7 +57,7 @@ I have 10+ years of experience in software development for clients as Televisa, 
   
 ### 🏆 Certifications
   
-  
+  https://img.shields.io/badge/🏅-SCJP-blue
   
 <br>
 <table>
