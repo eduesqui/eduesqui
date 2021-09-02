@@ -26,10 +26,10 @@ I have 10+ years of experience in software development for clients as Televisa, 
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
   ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate&logoColor=FFA518)&nbsp;
-  ![JPA](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=JPA&logoColor=FFA518)&nbsp;
-  ![JSF](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=JSF&logoColor=FFA518)&nbsp;
+  ![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=JPA&logoColor=FFA518)&nbsp;
+  ![JSF](https://img.shields.io/badge/-JSF-05122A?style=flat&logo=JSF&logoColor=FFA518)&nbsp;
   ![Spring Core](https://img.shields.io/badge/-SpringCore-05122A?style=flat&logo=Spring&logoColor=FFA518)&nbsp;
-  ![Spring Boot](https://img.shields.io/badge/-SpringBoot05122A?style=flat&logo=Spring-boot&logoColor=FFA518)&nbsp;
+  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=Spring-boot&logoColor=FFA518)&nbsp;
   ![Spring Security](https://img.shields.io/badge/-SpringSecurity-05122A?style=flat&logo=Spring&logoColor=FFA518)&nbsp;
   ![WebService Soap](https://img.shields.io/badge/-WebServiceSoap-05122A?style=flat&logo=JSF&logoColor=FFA518)&nbsp;
   ![WebSercice Rest](https://img.shields.io/badge/-WebServiceRest-05122A?style=flat&logo=JSF&logoColor=FFA518)&nbsp;
