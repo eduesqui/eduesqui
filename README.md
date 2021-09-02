@@ -8,6 +8,7 @@
 <a href="https://instagram.com/eduesqui"><img src="https://img.shields.io/badge/-@eduesqui-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/eduesqui"><img src="https://img.shields.io/badge/-@eduesqui-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://platzi.com/p/eduesqui"><img src="https://img.shields.io/badge/-eduesqui-228B22?style=flat&logo=Platzi&logoColor=white"/></a>
+<a href="https://medium.com/eduesqui"><img src="https://img.shields.io/badge/-eduesqui-black?style=flat&logo=Medium&logoColor=white"/></a>
   
  
   
