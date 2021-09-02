@@ -33,6 +33,8 @@ I have 10+ years of experience in software development for clients as Televisa, 
   ![Spring Security](https://img.shields.io/badge/-SpringSecurity-05122A?style=flat&logo=Spring&logoColor=FFA518)&nbsp;
   ![WebService Soap](https://img.shields.io/badge/-WebServicesSoap-05122A?style=flat&logo=icloud&logoColor=FFA518)&nbsp;
   ![WebSercice Rest](https://img.shields.io/badge/-WebServiceRest-05122A?style=flat&logo=icloud&logoColor=FFA518)&nbsp;
+  ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=FFA518)&nbsp;
+  ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=FFA518)&nbsp;
   
   
   
