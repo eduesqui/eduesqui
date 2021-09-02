@@ -47,31 +47,21 @@ I have 10+ years of experience in software development for clients as Televisa, 
 
 ### 💡 Knowledge
   
-  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-  ![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-  ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
-  ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)
-  ![openshift](https://img.shields.io/badge/-openshift-05122A?style=flat&logo=redhatopenshift)
-  ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
+  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+  ![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+  ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
+  ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+  ![openshift](https://img.shields.io/badge/-openshift-05122A?style=flat&logo=redhatopenshift)&nbsp;
+  ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
    
   
 ### 🏆 Certifications
   
-  https://img.shields.io/badge/🏅-SCJP-blue
-  
-<br>
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a>
-        <img src="https://images.credly.com/size/680x680/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png" width="40"/>
-      </a>
-      <br>OCJP JAVA - 6
-    </td>
-   </tr>
- </table>
+  https://img.shields.io/badge/Java-SCJA_6-orange &nbsp;
+  https://img.shields.io/badge/Java-OCJP_6-orange &nbsp;
+  https://img.shields.io/badge/Scrum-Scrum_developer-orange &nbsp;
 
-</p>
+
 
 
 
