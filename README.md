@@ -40,7 +40,7 @@ I have 10+ years of experience in software development for clients as Televisa, 
   ![Websphere](https://img.shields.io/badge/-Websphere-05122A?style=flat&logo=ibm&logoColor=FFA518)&nbsp;
   ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json&logoColor=FFA518)&nbsp;
   ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven&logoColor=FFA518)&nbsp;
-  ![Maven](https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab&logoColor=FFA518)&nbsp;
+  ![gitlab](https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab&logoColor=FFA518)&nbsp;
   
   
   
@@ -51,11 +51,13 @@ I have 10+ years of experience in software development for clients as Televisa, 
   ![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
   ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
   ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)
-  ![openshift](https://img.shields.io/badge/-openshift-05122A?style=flat&logo=openshift)
+  ![openshift](https://img.shields.io/badge/-openshift-05122A?style=flat&logo=redhatopenshift)
   ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
    
   
 ### 🏆 Certifications
+  
+  
   
 <br>
 <table>
