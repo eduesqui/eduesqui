@@ -22,11 +22,13 @@ I have 10+ years of experience in software development for clients as Televisa, 
   
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate&logoColor=FFA518)&nbsp;
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=JPA&logoColor=FFA518)&nbsp;
   
 
 ### 💡 Knowledge
   
-  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
   
 ### 🏆 Certifications
   
