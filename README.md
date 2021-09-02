@@ -57,9 +57,9 @@ I have 10+ years of experience in software development for clients as Televisa, 
   
 ### 🏆 Certifications
   
-  https://img.shields.io/badge/Java-SCJA_6-orange &nbsp;
-  https://img.shields.io/badge/Java-OCJP_6-orange &nbsp;
-  https://img.shields.io/badge/Scrum-Scrum_developer-orange &nbsp;
+  ![cer] (https://img.shields.io/badge/Java-SCJA_6-orange) &nbsp;
+  ![cer](https://img.shields.io/badge/Java-OCJP_6-orange) &nbsp;
+  ![cer](https://img.shields.io/badge/Scrum-Scrum_developer-orange) &nbsp;
 
 
 
