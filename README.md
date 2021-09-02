@@ -37,6 +37,8 @@ I have 10+ years of experience in software development for clients as Televisa, 
   ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=FFA518)&nbsp;
   ![tomcat](https://img.shields.io/badge/-tomcat-05122A?style=flat&logo=tomcat&logoColor=FFA518)&nbsp;
   ![Glassfish](https://img.shields.io/badge/-glassfish-05122A?style=flat&logo=glassfish&logoColor=FFA518)&nbsp;
+  ![Websphere](https://img.shields.io/badge/-Websphere-05122A?style=flat&logo=websphere&logoColor=FFA518)&nbsp;
+  ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json&logoColor=FFA518)&nbsp;
   
   
   
