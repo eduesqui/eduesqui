@@ -43,6 +43,7 @@ I have 10+ years of experience in software development for clients as Televisa, 
   ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json&logoColor=FFA518)&nbsp;
   ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven&logoColor=FFA518)&nbsp;
   ![gitlab](https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab&logoColor=FFA518)&nbsp;
+  ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
   
   
   
@@ -51,7 +52,6 @@ I have 10+ years of experience in software development for clients as Televisa, 
   
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
   ![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-  ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
   ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
   ![openshift](https://img.shields.io/badge/-openshift-05122A?style=flat&logo=redhatopenshift)&nbsp;
   ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
