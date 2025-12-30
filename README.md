@@ -3,11 +3,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-
-<a href="https://funcionaenmimaquina.com"><img src="https://img.shields.io/badge/-blog-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://dev.to/eduesqui"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
 <a href="https://linkedin.com/in/eduesqui"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://funcionaenmimaquina.com"><img src="https://img.shields.io/badge/-blog-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://instagram.com/eduesqui"><img src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/eduesqui"><img src="https://img.shields.io/badge/-twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://x.com/eduesqui"><img src="https://img.shields.io/badge/-twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://platzi.com/p/eduesqui"><img src="https://img.shields.io/badge/-platzi-228B22?style=flat&logo=Platzi&logoColor=white"/></a>
 <a href="https://medium.com/eduesqui"><img src="https://img.shields.io/badge/-medium-black?style=flat&logo=Medium&logoColor=white"/></a>
   
@@ -17,14 +17,12 @@
   
  <img align="center" alt="Coder GIF"  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
   
-I have 10+ years of experience in software development for clients as Televisa, CFE and Comercial Mexicana Group writing in Java and using frameworks like Spring, Hibernate, JSF and using tools like Unit Test, Junit and Maven. I have created and used SOAP and REST web services. I am knowledgeable in Oracle and MySQL databases. I have architected solutions based on MVC. I know the agile SCRUM methodology. I hold SCJA and OCJP certifications. I have been in charge of groups up to 15 people in different projects and have taken the technical lead for said projects. I hold a bachelor´s degree in Computer Systems at the University of Hidalgo (UAEH).
+I have 15+ years of experience in software development for clients as Televisa, CFE and Comercial Mexicana Group writing in Java and using frameworks like Spring, Hibernate, JSF and using tools like Unit Test, Junit and Maven. I have created and used SOAP and REST web services. I am knowledgeable in Oracle and MySQL databases. I have architected solutions based on MVC. I know the agile SCRUM methodology. I hold SCJA and OCJP certifications. I have been in charge of groups up to 15 people in different projects and have taken the technical lead for said projects. I hold a bachelor´s degree in Computer Systems at the University of Hidalgo (UAEH).
   
  
 ### 👷🏽‍♂️ Experience
   
-  
 
-  
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=FFA518)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
   ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate&logoColor=FFA518)&nbsp;
@@ -44,6 +42,7 @@ I have 10+ years of experience in software development for clients as Televisa, 
   ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven&logoColor=FFA518)&nbsp;
   ![gitlab](https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab&logoColor=FFA518)&nbsp;
   ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
+  ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
   
   
   
@@ -54,7 +53,8 @@ I have 10+ years of experience in software development for clients as Televisa, 
   ![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
   ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
   ![openshift](https://img.shields.io/badge/-openshift-05122A?style=flat&logo=redhatopenshift)&nbsp;
-  ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+ 
    
   
 ### 🏆 Certifications
