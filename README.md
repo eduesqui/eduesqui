@@ -53,7 +53,7 @@ I have 15+ years of experience in software development for clients as Televisa, 
   ![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
   ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
   ![openshift](https://img.shields.io/badge/-openshift-05122A?style=flat&logo=redhatopenshift)&nbsp;
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%05122A.svg?style=flat&logo=kubernetes&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-05122A?style=flat&logo=kubernetes&logoColor=white)
  
    
   
