@@ -2,14 +2,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://dev.to/eduesqui"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
-<a href="https://linkedin.com/in/eduesqui"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://funcionaenmimaquina.com"><img src="https://img.shields.io/badge/-blog-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://instagram.com/eduesqui"><img src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://x.com/eduesqui"><img src="https://img.shields.io/badge/-twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://platzi.com/p/eduesqui"><img src="https://img.shields.io/badge/-platzi-228B22?style=flat&logo=Platzi&logoColor=white"/></a>
-<a href="https://medium.com/eduesqui"><img src="https://img.shields.io/badge/-medium-black?style=flat&logo=Medium&logoColor=white"/></a>
   
  </p>
   
